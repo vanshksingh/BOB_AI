@@ -333,7 +333,7 @@ This README document outlines the capabilities, challenges, and future enhanceme
 
 ---
 
-**Author:**  
+*Author:* 
 Vansh Kumar Singh
 
 Pranshu Gautam
